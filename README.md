@@ -26,11 +26,11 @@ Users should be able to:
 
 ### Screenshot
 
-[](screenshot.png)
+(screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: ([https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-subscription-page-using-css-flexbox-2c2naUczBB))
 - Live Site URL: (https://singlepricegrid-six.vercel.app/)
 
 ## My process
