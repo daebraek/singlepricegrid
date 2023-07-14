@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ([https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-subscription-page-using-css-flexbox-2c2naUczBB))
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-subscription-page-using-css-flexbox-2c2naUczBB))
 - Live Site URL: (https://singlepricegrid-six.vercel.app/)
 
 ## My process
